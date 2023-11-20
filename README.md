@@ -34,22 +34,25 @@ FILES:
     -Input: "countryScraper_service.txt"
     -Output: "countryFile.json"
 
-    This can be changed at the top of the file.  The input file must be a .txt file, and the output file must be a .json file.  
+FILES can be changed at the top of the file of microservice.  The input file must be a .txt file, and the output file must be a .json file.  
 
 Input File Structure:
     -Input file should be a string, 1 not whiteline character word, according to the features section above.
 
 Output File Structure:
     -Source structure: Python dictionary
+    
     -For 'ALL' {
         "Error": *Error,
         "Countries": {'*Country' : '*Population', ...}        
     }
+    
     -For '*Country' (if not specific enough)
     {
         "Error" : "Error: Not specific enough"
         "Countries" : ['*Similar countries',...]
     }
+    
     -For '*Country' (specific)
     {
         "Error" : "None",
@@ -57,6 +60,7 @@ Output File Structure:
         "Population" : "*Population",
         "FlagURL" : "*URL"
     }
+    
     -IF error
     {
         "Error" : "*Error"
