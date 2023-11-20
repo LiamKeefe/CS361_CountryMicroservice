@@ -67,6 +67,7 @@ Output File Structure:
     }
 
 ##### Communication contract
+
 1.	What is the current status of the microservice you implemented for your partner to use? Hopefully, it’s done!
 Initial purpose and objective for the microservice has been completed
 
@@ -92,6 +93,4 @@ Friday 11/24/2023
 8.	Is there anything else your partner needs to know? Anything you’re worried about? Any assumptions you’re making? Any other mitigations / backup plans you want to mention or want to discuss with your partner?
 I may not have the best availability during Thanksgiving weekend, but I’ll try to respond as per the agreement listed here.
 
-
-![image](https://github.com/LiamKeefe/CS361_CountryMicroservice/assets/122354752/7253fc94-b317-458d-bb57-611a37bcd493)
 
