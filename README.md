@@ -65,3 +65,33 @@ Output File Structure:
     {
         "Error" : "*Error"
     }
+
+##### Communication contract
+1.	What is the current status of the microservice you implemented for your partner to use? Hopefully, it’s done!
+Initial purpose and objective for the microservice has been completed
+
+2.	If the microservice isn’t done, which parts aren’t done and when will they be done?
+Any parts that have not been properly implemented can be done 48hr at time of report.
+
+3.	Where can your partner find instructions for using your microservice? You should have created these instructions as part of a previous assignment
+https://github.com/LiamKeefe/CS361_CountryMicroservice/blob/main/README.md
+
+4.	How is your partner going to access your microservice? Should they get your code from GitHub? Should they run your code locally? Is your microservice hosted somewhere? Etc.
+Code has been distributed through canvas discussion and GitHub.  Instructions are in the README.  Microservice should be run in a CLI with Python 3.10+, and several packages.
+
+
+5.	Have you confirmed that you can successfully call YOUR PARTNER’S microservice? If not, do so. By when will you do that?
+I have no confirmed to successfully call my partners Microservice.  I’ll complete that by Wednesday 11/22/2023
+
+6.	If your partner cannot access/call YOUR microservice, what should they do? Can you be available to help them? What’s your availability?
+I am available to troubleshoot the microservice with 48hrs of report.  Immediate support may be provided if reported through email/text.  This service is provided up to the final approval (11/27/2023) or at my discretion.  
+
+7.	If your partner cannot access/call your microservice, by when do they need to tell you?
+Friday 11/24/2023
+
+8.	Is there anything else your partner needs to know? Anything you’re worried about? Any assumptions you’re making? Any other mitigations / backup plans you want to mention or want to discuss with your partner?
+I may not have the best availability during Thanksgiving weekend, but I’ll try to respond as per the agreement listed here.
+
+
+![image](https://github.com/LiamKeefe/CS361_CountryMicroservice/assets/122354752/7253fc94-b317-458d-bb57-611a37bcd493)
+
