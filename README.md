@@ -66,6 +66,11 @@ Output File Structure:
         "Error" : "*Error"
     }
 
+##### UML
+
+![image](https://github.com/LiamKeefe/CS361_CountryMicroservice/assets/122354752/cfee8870-ae78-4792-8cb4-9d8a3d3a6fbb)
+
+
 ##### Communication contract
 
 1.	What is the current status of the microservice you implemented for your partner to use? Hopefully, it’s done!
