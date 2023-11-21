@@ -1,6 +1,6 @@
 ##### Country Web Scrapper Microservice 
 
-For assignment 8, CS361, build a microservice for your partner. This microservice uses Wikipedia web pages to fetch update information about countries.  
+For assignment 9, CS361, build a microservice for your partner. This microservice uses Wikipedia web pages to fetch update information about countries.  
 
 Wikipedia conditions for autonomous services: https://en.wikipedia.org/wiki/Robots.txt
 
