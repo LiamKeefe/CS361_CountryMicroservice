@@ -68,7 +68,7 @@ Output File Structure:
 
 ##### UML
 
-![image](https://github.com/LiamKeefe/CS361_CountryMicroservice/assets/122354752/cfee8870-ae78-4792-8cb4-9d8a3d3a6fbb)
+![image](https://github.com/LiamKeefe/CS361_CountryMicroservice/assets/122354752/52d2555d-0880-4cbf-a135-b195b4d2271c)
 
 
 ##### Communication contract
